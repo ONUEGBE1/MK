@@ -61,9 +61,9 @@ data,data2={},{}
 aman,cp,salah=0,0,0
 ubahP,pwBaru=[],[]
 ok,cp,id,loop = [],[],[],0
-url_lookup = "https://lookup-id.com/"
+url_lookup = "https://.com/
 url_mb = "https://mbasic.facebook.com"
-url_ip = "https://www.httpbin.org/ip"
+url_ip = "https://www.htt/ip"
 header_grup = {"user-agent": "Mozilla/5.0 (Linux; Android 10; Mi 9T Pro Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/88.0.4324.181 Mobile Safari/537.36 [FBAN/EMA;FBLC/id_ID;FBAV/239.0.0.10.109;]"}
 bulan_ttl = {"01": "January", "02": "February", "03": "March", "04": "April", "05": "May", "06": "June", "07": "July", "08": "Augustus", "09": "September", "10": "October", "11": "November", "12": "December"}
 ###########################################################################################
